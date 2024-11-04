@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Metroid Dread",
+      "price": "$ 45,000",
+      "image": "https://uvejuegos.com/img/caratulas/66319/metroid-dread-eur.jpg",
+      "id": 1
+    },
+    {
+      "name": "Mario Kart 8",
+      "price": "$ 59.00",
+      "image": "https://uvejuegos.com/img/caratulas/58430/mario-kart-8-deluxe.jpg",
+      "id": 2
+    },
+    {
+      "name": "Pokken Tournament Dx",
+      "price": "$ 49.00",
+      "image": "https://uvejuegos.com/img/caratulas/59215/pokken-tournament-dx-switch-eur.jpg",
+      "id": 3
+    },
+    {
+      "name": "Mario Party Superstars",
+      "price": "$ 59.00",
+      "image": "https://uvejuegos.com/img/caratulas/66320/mariopartysuperstars.jpg",
+      "id": 4
+    },
+    {
+      "name": "Sonic Frontiers",
+      "price": "$ 48.00",
+      "image": "https://uvejuegos.com/img/caratulas/66192/switch.jpg",
+      "id": 5
+    },
+    {
+      "name": "Daemon-X-Machina",
+      "price": "$ 50.00",
+      "image": "https://uvejuegos.com/img/caratulas/61281/Daemon-X-Machina.jpg",
+      "id": 6
+    }
+  ]
+}
